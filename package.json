@@ -1,0 +1,14 @@
+{
+  "name": "dynasty-stripe-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Stripe serverless API for Dynasty Quant & Credit (Vercel).",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  },
+  "type": "module",
+  "dependencies": {
+    "stripe": "^16.6.0"
+  }
+}
